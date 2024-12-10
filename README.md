@@ -1,4 +1,4 @@
-Projet 5 OpenClassrooms : Analyse des Ventes en Ligne chez BottleNeck 🍷
+Projet : Analyse des Ventes en Ligne chez BottleNeck 🍷
 
 Introduction :
 
